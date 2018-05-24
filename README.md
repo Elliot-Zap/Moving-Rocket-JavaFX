@@ -6,4 +6,5 @@ Background moves in the opposite direction of your mouse and make the rocket poi
 Controls
 ----
 Mouse movement - Move Rocket.
+
 Mouse Click/Drag - Fire laser.
